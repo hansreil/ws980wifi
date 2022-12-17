@@ -4,5 +4,6 @@
   "documentation": "https://github.com/eXtgmA/ws980wifi/blob/master/README.md"
   "dependencies": [],
   "codeowners": ["@eXtgmA"],
+  "version": "0.1.0",
   "requirements": []
 }
